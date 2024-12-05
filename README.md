@@ -1,2 +1,2 @@
 # TablasDeMortalidad
-Tablas de mortalidad
+Tablas de mortalidad para trabajos actuariales
